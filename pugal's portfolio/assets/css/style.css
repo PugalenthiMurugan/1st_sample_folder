@@ -40,7 +40,7 @@ font-family: 'Poppins', sans-serif;
 body{
 	font-family: 'Poppins', sans-serif;
 	font-size:16px;
-	color: #676a81;
+	color:#e65c5c;
 	background: #fff;
     max-width:1920px;
     margin:0 auto;
@@ -50,13 +50,13 @@ body{
 a,a:hover,a:active,a:focus {
 	display:inline-block;
 	text-decoration:none;
-	color: #6a708e;
+	color: #d4953d;
 	font-size:16px;
 	padding:0;
 }
 h1,h2,h3,h4,h5,h6 { 
 	margin: 0;
-	color:#43485c;
+	color:#d4953d;
     font-size: 16px;
 	font-family: 'Poppins', sans-serif;
 	text-transform: capitalize;
@@ -64,7 +64,7 @@ h1,h2,h3,h4,h5,h6 {
 p {
 	margin: 0;
 	line-height:1.8;
-	color:#43485c;
+	color:#d4953d;
 	font-size:14px;
 	font-family: 'Poppins', sans-serif;
 }
